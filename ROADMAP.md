@@ -18,6 +18,26 @@
 
 ### Deadline (idéale) : Septembre 2027
 
+## Game Design (New Ideas / Organisation)
+
+Genre : Puzzle / Exploration
+Solo
+3D Game
+Realistic
+
+Inspiration : Routine (visuals)
+=> Space station, brutalistic
+
+Systems/Game Mechanics :
+- Movement (walk,run,jump,crouch) => **DONE** : 1st Person Controller + setup de cameraHolder
+- Interaction (open/close door)
+- Inventory (mostly UI, linked with Interaction)
+- Camera (1st & 3rd Person)
+- Interactive Map (2D or 3D ?)
+- Missions (UI, completion, rewards)
+- UI (Menus, Options, Controls, ...)
+- Saving Progression System
+- Weapon/Tool (shoot, reload/charge, torch on/off)
 
 # Glossaire
 ### **1. Level Design** : voir le fichier de [level design](LevelDesign.md)
@@ -74,13 +94,16 @@ Par exemple, le premier niveau introduit les mécaniques de bases
 - Commencer à écrire l'histoire
 
 ### Semaine 43 (du 19/10/26 au 25/10/26) :
+PAUSE
+
+### Semaine 44 (du 26/10/26 au 01/11/26) :
 - concept art du 1er niveau + modelling/lighting/texturing ???
 - Continuer le Level Design sur papier
 - Retravailler le modèle 3D du robot sur Blender :
     - Remodelling du haut du corps
     - Rig à refaire
 
-### Semaine 44 (du 26/10/26 au 01/11/26) :
+### Semaine 45 (du 02/11/26 au 08/11/26) :
 - Blockout/WhiteBox du 1er niveau (tutorial) => seulement si concept art fait
 - Commencer à ajouter l'UI :
     - Une scène de Menu principal et de création de partie
@@ -90,15 +113,3 @@ Par exemple, le premier niveau introduit les mécaniques de bases
 - Ajouter les mouvements avancés : grimper, pousser/tirer
 - Ajouter interactions avec des objets physicalisé (pousser/tirer)
 - Créer les animations des mouvements de base + idle
-
-## Et après ?
-### **Si le jeu plait :**
-Création d'un jeu multi openworld (MMO ?) dans l'univers du 1er jeu.
-
-**Fonctionnalités :**
-- Economy
-- Missions
-- Crafting
-- Base Building / Housing
-- Factions / Guilds
-- Social System

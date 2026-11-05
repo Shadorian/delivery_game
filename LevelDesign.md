@@ -5,12 +5,6 @@
 ### Sources :
 Livre de Level Design avec des liens vers d'autres ressources : https://book.leveldesignbook.com/
 
-## Consigne de bon Level Design :
-
-**A éviter :**
-1. **Faire un layout trop "blocky" :** généralement l'erreur du débutant, des couloirs droits pas intéressants, des blocs placés ici et là.\
-***Solution :*** un layout plus organique, prendre exemple sur la réalité. Peut avoir des couloirs mais faut les rendre intéressant et pas trop longs
-2. 
 
 
 ## Le level design du jeu
@@ -58,7 +52,7 @@ Livre de Level Design avec des liens vers d'autres ressources : https://book.lev
     
     Pathfinding : impacte principalement le level design. Je dois encore déterminer si je fais un semi-openworld (couloir avec impression de liberté mais guidé vers POI) ou alors un vrai openworld mais doit être justifié et pas ennuyant pour les joueurs (pourrait être réfléchi pour un projet multijoueur)
     
-    Environnement Art : je veux un jeu contemplatif, que le joueur puisse prendre le temps d'observer son environnement et soit immergé dans l'univers.
+    Environnement Art : je veux un jeu beau/contemplatif, que le joueur puisse prendre le temps d'observer son environnement et soit immergé dans l'univers.
 
 **Experience goals :** How should the player react throughout each level? An emotion, a behavior?
 
